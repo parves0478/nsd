@@ -1,2 +1,6 @@
 dev te
+<<<<<<< HEAD
 NES
+=======
+from main
+>>>>>>> main
